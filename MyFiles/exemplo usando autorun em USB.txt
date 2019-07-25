@@ -1,0 +1,4 @@
+[autorun]
+open=view.py
+
+no open coloco o nome do arquivo que quero abrir que esteja no pendrive
